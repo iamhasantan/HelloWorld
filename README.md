@@ -1,2 +1,3 @@
 # HelloWorld
-My first ever attempt at actually learning to code..
+My 30th attempt at learning to code..
+See you in 6 months lol.
